@@ -13,7 +13,7 @@ function whileLoop (n) {
 }
 function doWhileLoop(num) {
   
-  do {
-    
-  } while ();
+ do {
+  console.log("I run once reguardless.");
+} while ([condition]);
 }
